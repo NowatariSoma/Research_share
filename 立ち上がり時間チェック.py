@@ -11,3 +11,5 @@ if t_shousha > 0:
 else:
     print(t_shousha)
     print("NG")
+
+# 10回照射を繰り返すと，立ち上がり時間が照射時間の半分を超える
